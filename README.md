@@ -2,6 +2,7 @@
   <img height="250", width="500" src="https://cdn.pixabay.com/animation/2024/07/19/00/09/00-09-35-674_512.gif"  />
 </div>
 
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuanvo73/" target="_blank">
