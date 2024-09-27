@@ -2,9 +2,6 @@
   <img height="250", width="500" src="https://cdn.pixabay.com/animation/2024/07/19/00/09/00-09-35-674_512.gif"  />
 </div>
 
-<h1 align="center">
-    Hi there 👋
-</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuanvo73/" target="_blank">
@@ -18,11 +15,9 @@
   </a>
 </div>
 
-<h2 align="center">A Passionate Software Engineer from Vietnam 🇻🇳 <br>Living in Maryland, U.S. 🇺🇸</h2>
-
 
 ####
-<h3 align="left">What I Do</h3>
+<h3 align="left">About me</h3>
 
 
 <p align="left">I do back-end development, specializing in implementing robust server-side architectures and managing databases. I also excel in the implementation of machine learning models, such as phishing website detection. Eager to apply my skills and contribute to innovative software solutions within the dynamic landscape of the technology industry.</p>
@@ -90,14 +85,3 @@
 | ------------- | ------------------------------------------------------------------------- |
 | English       | Professional                                                              |
 | Vietnamese    | Native language                                                           |
-
-####
-<details>
-<summary>
-<h3 align="left">📊 Stats :</h3>
-</summary>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TWilluan&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
-</div>
