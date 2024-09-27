@@ -5,14 +5,14 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tuanvo73/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1020&logoColor=&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://nguyentiendat130303@gmail.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/51f068906873137c910c865047ea7348346a722fa2461975adb426a74c577e2e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f6170706c652d6d61696c2e706e67" height="100" alt="mail logo"  />
   </a>
-  <a href="https://tvo2@seattleu.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0c1020&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/dat-nguyen-tien-09aa23303/" target="_blank">
+    <img src="https://camo.githubusercontent.com/8d89f0b27fe7c2e4211e269b6aea7fbf1434ee8856d7c3c2482f4110f0891a0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f6c696e6b6564696e2e706e67" height="100" width="100" alt="linkedin logo"  />
   </a>
-  <a href="https://tuanvo.will@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0c1020&logoColor=&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.facebook.com/brostidi" target="_blank">
+    <img src="https://camo.githubusercontent.com/d0c4102b8c28cbdee90ac6da8f126a0fc8e48779a0a8c500aebe4fb2daded2e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f66616365626f6f6b2d6e65772e706e67" height="100" alt="facebook logo"  />
   </a>
 </div>
 
