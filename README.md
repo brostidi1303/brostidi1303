@@ -5,7 +5,9 @@
 <h3 align="left">About me</h3>
 
 
-<p align="left">I do back-end development, specializing in implementing robust server-side architectures and managing databases. I also excel in the implementation of machine learning models, such as phishing website detection. Eager to apply my skills and contribute to innovative software solutions within the dynamic landscape of the technology industry.</p>
+<p align="left">I am passionate about software development and want to advance my career as a Software Developer. My goal is 
+to enhance my software design, development and implementation skills through hands-on projects. I am looking 
+for an opportunity to contribute my knowledge to innovative products in a dynamic development team. </p>
 
 ####
 <h3 align="left">👨‍💻 Programming Languages</h3>
