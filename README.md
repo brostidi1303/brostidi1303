@@ -70,7 +70,7 @@ for an opportunity to contribute my knowledge to innovative products in a dynami
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | Professional                                                              |
+| English       | Intermediate                                                              |
 | Vietnamese    | Native language                                                           |
 
 <br>
